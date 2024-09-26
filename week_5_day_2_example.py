@@ -25,5 +25,8 @@ for car in cars:
     cars.append(carRequest)
     print(cars)
     print(len(cars))
-    print(cars.upper())
+    # print(cars.upper())
     print(cars)
+    if len(cars) > 10:
+        break
+    
