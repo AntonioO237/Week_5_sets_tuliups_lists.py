@@ -21,5 +21,3 @@ print(fruits[0])
 for fruit in fruits:
     print(fruit)
 
-
-
